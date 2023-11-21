@@ -21,10 +21,10 @@ The React Smith chart control supports a horizontal axis and radial axis. The ho
 
 ## Related links
 [Learn More about React Smith Chart](https://www.syncfusion.com/react-components/react-smith-chart?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
-[Download Free Trial](https://www.syncfusion.com/downloads?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/react?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
 [Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
 [Documentation](https://ej2.syncfusion.com/react/documentation/smith-chart/getting-started?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
-[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-react-smith-chart?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/getting-started-with-the-react-smith-chart-component?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
 [Community Forums](https://www.syncfusion.com/forums/react-js2?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
 [Suggest a feature](https://www.syncfusion.com/feedback/react?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
 [Online Examples](https://ej2.syncfusion.com/react/demos/#/bootstrap5/smith-chart/default?utm_source=github&utm_medium=listing&utm_campaign=react-smith-chart-github-samples)
